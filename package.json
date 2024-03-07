@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlbertoLucass/NodeTutorial#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.1"
   }
 }
